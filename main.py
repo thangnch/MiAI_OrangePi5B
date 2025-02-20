@@ -10,7 +10,7 @@ import numpy
 
 # Load the exported RKNN model
 model = YOLO("./ok_rknn_model")
-my_token = "7534858637:AAEwGQU6Ryp9LxfK7F7h63JGJkkES1DrWwk"
+my_token = "TOKEN HERE"
 bot = telegram.Bot(token=my_token)
 
 
